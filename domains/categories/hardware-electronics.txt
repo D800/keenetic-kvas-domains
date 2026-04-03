@@ -1,0 +1,26 @@
+# Hardware vendors, electronics distributors
+btod.com
+corsair.com
+cpu-monkey.com
+digikey.com
+element14.com
+gpu-monkey.com
+huawei.com
+mouser.com
+mouser.fi
+newark.com
+pcbway.com
+pcbway.ru
+plugshare.com
+quietpc.com
+schaeffler.com
+shinyhardware.co.uk
+squietpc.com
+vectorworks.net
+www3.corsair.com
+zf.com
+bosch.com
+boschaftermarket.com
+boschautoparts.com
+home.by.me
+yeggi.com

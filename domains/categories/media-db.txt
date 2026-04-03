@@ -1,0 +1,8 @@
+# Media databases (TMDB, IMDB, etc.)
+api.themoviedb.org
+image.tmdb.org
+theaudiodb.com
+themoviedb.org
+tmdb.com
+tmdb.org
+metopera.org

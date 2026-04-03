@@ -60,7 +60,7 @@ Copy `scripts/kvas-pull-update.sh` to Keenetic and set up cron:
 
 ```bash
 # On Keenetic via SSH:
-scp scripts/kvas-pull-update.sh root@<ROUTER_IP>:/opt/etc/cron.daily/kvas-pull-update.sh
+scp -O scripts/kvas-pull-update.sh root@<ROUTER_IP>:/opt/etc/cron.daily/kvas-pull-update.sh
 ssh root@<ROUTER_IP> "chmod +x /opt/etc/cron.daily/kvas-pull-update.sh"
 ```
 

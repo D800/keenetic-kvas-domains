@@ -78,3 +78,4 @@ toolbox.app
 uizard.io
 urlr.me
 youtrack.cloud
+*vsassets.io

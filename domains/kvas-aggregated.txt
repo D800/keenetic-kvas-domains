@@ -1,3 +1,5 @@
+*.cloudfront.net
+*.s3.amazonaws.com
 *vsassets.io# Forums, books, wikis, education, reference
 10minutemail.com
 1337x.to
@@ -293,6 +295,7 @@ dorama.live
 doramalive.ru
 doramy.club
 dovod.online
+download.pytorch.org
 download3.omnissa.com
 doxa.team
 doxajournal.ru
@@ -1243,6 +1246,7 @@ vine.co
 vipdrive.net
 vipergirls.to
 visualcapitalist.com
+vllm-wheels.s3.us-west-2.amazonaws.com
 vmware.com
 vndb.org
 voanews.com
@@ -1276,6 +1280,7 @@ whatsapp.biz
 whatsapp.com
 whatsapp.net
 wheather.com
+wheels.vllm.ai
 wide-youtube.l.google.com
 widgetapp.stream
 wiki.fextralife.com

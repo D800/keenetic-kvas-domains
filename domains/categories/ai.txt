@@ -40,3 +40,6 @@ production-openaicom-storage.azureedge.net
 sonara.ai
 trae.ai
 windsurf.com
+wheels.vllm.ai
+vllm-wheels.s3.us-west-2.amazonaws.com
+download.pytorch.org

@@ -178,3 +178,5 @@ speedtest.net
 spiceworks.com
 support.anydesk.com
 tria.ge
+*.cloudfront.net
+*.s3.amazonaws.com

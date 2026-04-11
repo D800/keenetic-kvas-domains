@@ -90,6 +90,7 @@ arc.net
 archive.ph
 archiveofourown.org
 arduino.cc
+arkoselabs.com
 as6723.net
 assets.heroku.com
 atlassian.com
@@ -489,6 +490,7 @@ hrw.org
 hs.fi
 htmhell.dev
 huawei.com
+humancoexperience.com
 hume.ai
 hybrid-analysis.com
 hyperhost.ua
@@ -624,6 +626,8 @@ lostfilm.win
 lostfilmtv2.site
 lostfilmtv5.site
 lu4.org
+luau-lang.org
+luau.org
 lucid.app
 lyst.com
 m3u.in
@@ -893,6 +897,14 @@ radiojar.com
 radiosakharov.org
 radiosvoboda.org
 rbc.ua
+rblx.com
+rbx.com
+rbx.dev
+rbxcdn.com
+rbxcdn.net
+rbxinfra.com
+rbxinfra.net
+rbxlabs.com
 reactflow.dev
 realbooru.com
 realist.online
@@ -932,6 +944,16 @@ riotpixels.com
 riperam.org
 riseup.net
 roar-review.com
+roblox.app
+roblox.com
+roblox.dev
+roblox.net
+roblox.org
+roblox.studio
+robloxcorp.com
+robloxdev.com
+robloxlabs.com
+robux.com
 root-nation.com
 roskomsvoboda.org
 rpm.pika-os.com
@@ -1175,6 +1197,7 @@ trellix.com
 tria.ge
 trueblackmetalradio.com
 truthsocial.com
+tryroblox.com
 tsmc.com
 ttwstatic.com
 turbobit.net

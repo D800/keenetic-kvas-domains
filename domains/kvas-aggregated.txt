@@ -198,6 +198,7 @@ claude.ai
 clevelandclinic.org
 clickup.com
 clip.opus.pro
+cloud.vast.ai
 cloudex.cc
 cloudtorrents.com
 cms-twdigitalassets.com
@@ -216,6 +217,7 @@ colta.ru
 comments.app
 community.sophos.com
 connect.ngrok-agent.com
+console.runpod.io
 contabo.com
 contest.com
 coomer.su
@@ -964,6 +966,7 @@ ruckuswireless.com
 rule34.art
 rule34.us
 rule34.xxx
+runpod.io
 rus-media.org
 rus.delfi.ee
 rus.ec
@@ -1255,6 +1258,7 @@ usw.nobaraproject.org
 v.vrv.co
 vagrantcloud.com
 valvesoftware.com
+vast.ai
 vectorworks.net
 veeam.com
 velocidrone.com

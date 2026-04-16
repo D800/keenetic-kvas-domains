@@ -198,7 +198,11 @@ claude.ai
 clevelandclinic.org
 clickup.com
 clip.opus.pro
+<<<<<<< Updated upstream
 cloud.vast.ai
+=======
+cloud-images.ubuntu.com
+>>>>>>> Stashed changes
 cloudex.cc
 cloudtorrents.com
 cms-twdigitalassets.com
@@ -298,7 +302,11 @@ dorama.live
 doramalive.ru
 doramy.club
 dovod.online
+<<<<<<< Updated upstream
 download.pytorch.org
+=======
+download.docker.com
+>>>>>>> Stashed changes
 download3.omnissa.com
 doxa.team
 doxajournal.ru
@@ -766,6 +774,7 @@ ntc.party
 ntp.msn.com
 nude-moon.org
 nvidia.com
+nvidia.github.io
 nxp.com
 nyaa.si
 oaistatic.com
@@ -840,6 +849,7 @@ pingdom.com
 piratbit.top
 pixabay.com
 pixiv.net
+pkgs.k8s.io
 pkgs.tailscale.com
 plab.site
 platform.activestate.com

@@ -1,6 +1,7 @@
 *.aqara.com
 *.cloudfront.net
 *.duokan.com
+*.gstatic.com
 *.mi-img.com
 *.mi.com
 *.mijia.com
@@ -100,6 +101,7 @@ api.service-kp.com
 api.theins.info
 api.themoviedb.org
 api2.cursor.sh
+apis.google.com
 apkmirror.com
 aplawrence.com
 app.zerossl.com
@@ -244,6 +246,7 @@ colta.ru
 comments.app
 community.sophos.com
 connect.ngrok-agent.com
+connectivitycheck.android.com
 console.runpod.io
 contabo.com
 contest.com
@@ -807,6 +810,7 @@ nyaa.si
 oaistatic.com
 oaiusercontent.com
 oasis.app
+oauth2.googleapis.com
 obozrevatel.com
 ocstore.com
 octopus.do
@@ -1134,7 +1138,6 @@ sputnikipogrom.com
 squadbustersgame.com
 squareup.com
 squietpc.com
-ssl.gstatic.com
 stalker2.com
 startmail.com
 startpage.com
@@ -1367,6 +1370,7 @@ wk.cz
 wonderzine.com
 wpengine.com
 wunderground.com
+www.googleapis.com
 www3.corsair.com
 x-minus.pro
 x.ai

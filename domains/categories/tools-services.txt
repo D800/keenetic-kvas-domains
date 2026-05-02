@@ -59,10 +59,15 @@ clients3.google.com
 clients4.google.com
 clients5.google.com
 clients6.google.com
-# Google account (sign-in, OAuth — required for Play login)
+# Google account (sign-in, OAuth — required for Play login & 3rd-party "Sign in with Google")
 accounts.google.com
 accounts.youtube.com
-ssl.gstatic.com
+oauth2.googleapis.com
+www.googleapis.com
+apis.google.com
+*.gstatic.com
+# Android connectivity check (captive portal "no internet" detector — gstatic covered above)
+connectivitycheck.android.com
 # Play Protect / app integrity (SafetyNet, Play Integrity API)
 safebrowsing.googleapis.com
 droidguard.googleapis.com

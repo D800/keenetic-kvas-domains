@@ -24,3 +24,13 @@ boschaftermarket.com
 boschautoparts.com
 home.by.me
 yeggi.com
+# Xiaomi / Mi Home (smart home, MIUI cloud, OTA, push, IoT devices)
+*.mi.com
+*.xiaomi.com
+*.mijia.com
+*.miwifi.com
+*.mi-img.com
+*.miui.com
+*.xiaomi.net
+*.aqara.com
+*.duokan.com

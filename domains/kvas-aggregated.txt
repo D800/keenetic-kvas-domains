@@ -20,6 +20,8 @@ a-vrv.akamaized.net
 abercrombie.com
 abook-club.ru
 academy.terrasoft.ua
+accounts.google.com
+accounts.youtube.com
 activatica.org
 addr.tools
 adguard-dns.com
@@ -43,6 +45,14 @@ alberta.ca
 all3dp.com
 allegro.pl
 alphacoders.com
+alt1-mtalk.google.com
+alt2-mtalk.google.com
+alt3-mtalk.google.com
+alt4-mtalk.google.com
+alt5-mtalk.google.com
+alt6-mtalk.google.com
+alt7-mtalk.google.com
+alt8-mtalk.google.com
 alza.hu
 amazfitwatchfaces.com
 amazonaws.com
@@ -54,6 +64,8 @@ amplitude.com
 amx.com
 analog.com
 andrevi.ch
+android.clients.google.com
+android.googleapis.com
 anidub.com
 anilib.me
 anilibria.org
@@ -197,12 +209,14 @@ clashroyaleapp.com
 claude.ai
 clevelandclinic.org
 clickup.com
+clients1.google.com
+clients2.google.com
+clients3.google.com
+clients4.google.com
+clients5.google.com
+clients6.google.com
 clip.opus.pro
-<<<<<<< Updated upstream
 cloud.vast.ai
-=======
-cloud-images.ubuntu.com
->>>>>>> Stashed changes
 cloudex.cc
 cloudtorrents.com
 cms-twdigitalassets.com
@@ -264,6 +278,7 @@ devexpress.com
 deviantart.com
 devops.com
 digikey.com
+digitalassetlinks.googleapis.com
 digitalcontent.sky
 digitalocean.com
 dis.gd
@@ -292,6 +307,7 @@ discordstatus.com
 discours.io
 disctech.com
 disneyplus.com
+dl.google.com
 dnsleaktest.com
 dobrochan.net
 docs.liquibase.com
@@ -302,17 +318,14 @@ dorama.live
 doramalive.ru
 doramy.club
 dovod.online
-<<<<<<< Updated upstream
 download.pytorch.org
-=======
-download.docker.com
->>>>>>> Stashed changes
 download3.omnissa.com
 doxa.team
 doxajournal.ru
 dpidetector.org
 dreamhost.com
 dreamina.capcut.com
+droidguard.googleapis.com
 dub.sh
 ducati.com
 dumka.media
@@ -363,6 +376,7 @@ fastpic.org
 fb.com
 fbcdn.net
 fbsbx.com
+fcm.googleapis.com
 fex.net
 fextralife.com
 ficbook.net
@@ -461,6 +475,9 @@ groq.com
 groupon.com
 guilded.gg
 gulagu.net
+gvt1.com
+gvt2.com
+gvt3.com
 habr.com
 hackernoon.com
 hackmd.io
@@ -700,6 +717,8 @@ mouser.com
 mouser.fi
 mrakopedia.net
 mssg.me
+mtalk.google.com
+mtalk4.google.com
 mullvad.net
 multporn.net
 muscdn.com
@@ -774,7 +793,6 @@ ntc.party
 ntp.msn.com
 nude-moon.org
 nvidia.com
-nvidia.github.io
 nxp.com
 nyaa.si
 oaistatic.com
@@ -849,11 +867,15 @@ pingdom.com
 piratbit.top
 pixabay.com
 pixiv.net
-pkgs.k8s.io
 pkgs.tailscale.com
 plab.site
 platform.activestate.com
+play-lh.googleusercontent.com
+play.google.com
+play.googleapis.com
+playatoms-pa.googleapis.com
 playboy.com
+playintegrity.googleapis.com
 plugshare.com
 polit.ru
 politico.eu
@@ -991,6 +1013,7 @@ rutracker.net
 rutracker.org
 rutracker.ru
 rutracker.wiki
+safebrowsing.googleapis.com
 sakh.com
 sakhalin.info
 sakharovfoundation.org
@@ -1102,6 +1125,7 @@ sputnikipogrom.com
 squadbustersgame.com
 squareup.com
 squietpc.com
+ssl.gstatic.com
 stalker2.com
 startmail.com
 startpage.com
@@ -1258,6 +1282,7 @@ unian.ua
 uniongang.tv
 unscreen.com
 unsplash.com
+update.googleapis.com
 upwork.com
 urlr.me
 usa.one

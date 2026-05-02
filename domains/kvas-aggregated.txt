@@ -1,5 +1,14 @@
+*.aqara.com
 *.cloudfront.net
+*.duokan.com
+*.mi-img.com
+*.mi.com
+*.mijia.com
+*.miui.com
+*.miwifi.com
 *.s3.amazonaws.com
+*.xiaomi.com
+*.xiaomi.net
 *vsassets.io# Forums, books, wikis, education, reference
 10minutemail.com
 1337x.to

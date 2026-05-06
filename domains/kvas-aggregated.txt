@@ -812,6 +812,7 @@ oaistatic.com
 oaiusercontent.com
 oasis.app
 oauth2.googleapis.com
+objects.githubusercontent.com
 obozrevatel.com
 ocstore.com
 octopus.do
@@ -965,6 +966,7 @@ redshieldvpn.com
 redtube.com
 refactoring.guru
 refinitiv.com
+release-assets.githubusercontent.com
 remna.st
 remove.bg
 render-state.to

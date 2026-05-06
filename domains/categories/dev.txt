@@ -61,6 +61,8 @@ document360.io
 dub.sh
 editorx.com
 git.new
+release-assets.githubusercontent.com
+objects.githubusercontent.com
 make.com
 modrinth.com
 octopus.do

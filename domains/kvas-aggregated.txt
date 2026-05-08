@@ -272,6 +272,7 @@ dailylviv.com
 danbooru.donmai.us
 data-cdn.mbamupdates.com
 data.cline.bot
+deb.debian.org
 deckbrew.xyz
 decrypt.day
 deepl.com

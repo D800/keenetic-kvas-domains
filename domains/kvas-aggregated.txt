@@ -330,6 +330,7 @@ dorama.live
 doramalive.ru
 doramy.club
 dovod.online
+download.proxmox.com
 download.pytorch.org
 download3.omnissa.com
 doxa.team

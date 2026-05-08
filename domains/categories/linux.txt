@@ -18,3 +18,4 @@ vyos.io
 arduino.cc
 bufferbloat.net
 xiaomi.eu
+download.proxmox.com

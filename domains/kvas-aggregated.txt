@@ -123,6 +123,7 @@ attachments.f95zone.to
 audiobookbay.lu
 augmentcode.com
 authenticator.cursor.sh
+authored-files.wabbajack.org
 autodesk.com
 avira.com
 azathabar.com
@@ -394,6 +395,7 @@ fcm.googleapis.com
 fex.net
 fextralife.com
 ficbook.net
+files.nexusmods.com
 files.pythonhosted.org
 filmitorrent.net
 filmix.ac
@@ -666,7 +668,7 @@ lostfilm.uno
 lostfilm.win
 lostfilmtv2.site
 lostfilmtv5.site
-loverslab.com# Hardware vendors, electronics distributors
+loverslab.com
 lu4.org
 luau-lang.org
 luau.org
@@ -718,6 +720,7 @@ microsoft365.com
 middlewareinventory.com
 mignews.com
 mintmobile.com
+mirror.wabbajack.org
 mirrors.nobaraproject.org
 mixcloud.com
 modrinth.com
@@ -771,6 +774,7 @@ newsru.co.il
 newsru.com
 newstudio.tv
 newtimes.ru
+nexusmods.com
 nfl.com
 nflxext.com
 nflximg.com
@@ -862,6 +866,7 @@ parallelsaccess.com
 paraplan.net
 paraswap.io
 paritydeals.com
+patches.wabbajack.org
 patreon.com
 patreonusercontent.com
 patriot.dp.ua
@@ -1342,6 +1347,7 @@ vrv.co
 vyos.io
 w.atwiki.jp
 wa.me
+wabbajack.b-cdn.net
 walmart.com
 watchguard.com
 watermarkremover.io
@@ -1376,6 +1382,7 @@ wonderzine.com
 wpengine.com
 wunderground.com
 www.googleapis.com
+www.loverslab.com
 www3.corsair.com
 x-minus.pro
 x.ai

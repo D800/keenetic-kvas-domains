@@ -70,3 +70,10 @@ luau.org
 snapgametech.com
 wbgames.com
 loverslab.com
+www.loverslab.com
+wabbajack.b-cdn.net
+authored-files.wabbajack.org
+mirror.wabbajack.org
+patches.wabbajack.org
+nexusmods.com
+files.nexusmods.com

@@ -81,3 +81,6 @@ uizard.io
 urlr.me
 youtrack.cloud
 *vsassets.io
+github.com
+codeload.github.com
+api.github.com

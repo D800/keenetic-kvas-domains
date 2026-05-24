@@ -161,6 +161,8 @@ tvdevinfo.com
 usher.ttvnw.net
 v.vrv.co
 vod-fy.crunchyrollcdn.com
+*.voidboost.cc
+*.stream.voidboost.cc
 x-minus.pro
 yt.be
 yt3.googleusercontent.com

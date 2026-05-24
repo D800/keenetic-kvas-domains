@@ -8,6 +8,8 @@
 *.miui.com
 *.miwifi.com
 *.s3.amazonaws.com
+*.stream.voidboost.cc
+*.voidboost.cc
 *.xiaomi.com
 *.xiaomi.net
 *vsassets.io

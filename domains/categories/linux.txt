@@ -20,3 +20,4 @@ bufferbloat.net
 xiaomi.eu
 download.proxmox.com
 deb.debian.org
+nixos.org

@@ -21,3 +21,4 @@ xiaomi.eu
 download.proxmox.com
 deb.debian.org
 nixos.org
+procurs.us

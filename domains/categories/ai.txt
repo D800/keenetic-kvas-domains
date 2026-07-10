@@ -48,3 +48,4 @@ vast.ai
 console.runpod.io
 runpod.io
 spheron.ai
+cdn.hf.co

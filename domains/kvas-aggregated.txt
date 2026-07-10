@@ -197,6 +197,7 @@ cats.com
 cbilling.eu
 cbilling.vip
 cdn-telegram.org
+cdn.hf.co
 cdn.web-platform.io
 cdnbunny.org
 cdninstagram.com

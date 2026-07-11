@@ -49,3 +49,5 @@ console.runpod.io
 runpod.io
 spheron.ai
 cdn.hf.co
+huggingface.co
+hf.co

@@ -207,6 +207,7 @@ censor.net
 censortracker.org
 certifytheweb.com
 chaos.com
+chariz.com
 chat.com
 chat.openai.com.cdn.cloudflare.net
 chatgpt.com
@@ -505,6 +506,7 @@ hackernoon.com
 hackmd.io
 halooglasi.com
 hashicorp.com
+havoc.app
 haydaygame.com
 hbomax.com
 hc-ping.com

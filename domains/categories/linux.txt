@@ -22,3 +22,5 @@ download.proxmox.com
 deb.debian.org
 nixos.org
 procurs.us
+chariz.com
+havoc.app

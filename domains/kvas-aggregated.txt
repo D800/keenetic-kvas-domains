@@ -526,6 +526,7 @@ helm.goharbor.io
 hentai-foundry.com
 herokucdn.com
 hetzner.com
+hf.co
 hitomi.la
 hollisterco.com
 holod.media
@@ -541,6 +542,7 @@ hrw.org
 hs.fi
 htmhell.dev
 huawei.com
+huggingface.co
 humancoexperience.com
 hume.ai
 hybrid-analysis.com

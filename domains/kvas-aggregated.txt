@@ -206,6 +206,7 @@ cdw.com
 censor.net
 censortracker.org
 certifytheweb.com
+challenges.cloudflare.com
 chaos.com
 chariz.com
 chat.com

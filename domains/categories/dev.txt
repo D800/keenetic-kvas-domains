@@ -84,3 +84,12 @@ youtrack.cloud
 github.com
 codeload.github.com
 api.github.com
+ecs.office.com
+officecdn.microsoft.com
+officecdn.microsoft.com.edgesuite.net
+officecdn.microsoft.com.edgekey.net
+config.office.com
+odc.officeapps.live.com
+ols.officeapps.live.com
+nexus.officeapps.live.com
+nexusrules.officeapps.live.com

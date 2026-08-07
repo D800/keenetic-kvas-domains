@@ -253,6 +253,7 @@ coldfilm.xyz
 colta.ru
 comments.app
 community.sophos.com
+config.office.com
 connect.ngrok-agent.com
 connectivitycheck.android.com
 console.runpod.io
@@ -357,6 +358,7 @@ e-hentai.org
 e621.net
 easydmarc.com
 echofm.online
+ecs.office.com
 editorx.com
 edu-cisco.org
 ef.com
@@ -785,7 +787,9 @@ newsru.co.il
 newsru.com
 newstudio.tv
 newtimes.ru
+nexus.officeapps.live.com
 nexusmods.com
+nexusrules.officeapps.live.com
 nfl.com
 nflxext.com
 nflximg.com
@@ -835,9 +839,14 @@ obozrevatel.com
 ocstore.com
 octopus.do
 oculus.com
+odc.officeapps.live.com
+officecdn.microsoft.com
+officecdn.microsoft.com.edgekey.net
+officecdn.microsoft.com.edgesuite.net
 ohmyswift.ru
 oi.legal
 okx.com
+ols.officeapps.live.com
 olx.ua
 omnissa.com
 omv-extras.org

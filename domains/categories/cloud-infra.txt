@@ -24,6 +24,7 @@ canva.com
 canva.dev
 cdnbunny.org
 certifytheweb.com
+challenges.cloudflare.com
 chaos.com
 cisco.com
 clamav.net

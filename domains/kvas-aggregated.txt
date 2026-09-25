@@ -1352,6 +1352,7 @@ vice.com
 vine.co
 vipdrive.net
 vipergirls.to
+virustotal.com
 visualcapitalist.com
 vllm-wheels.s3.us-west-2.amazonaws.com
 vmware.com

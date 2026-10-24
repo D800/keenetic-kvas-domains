@@ -12,6 +12,7 @@
 *.voidboost.cc
 *.xiaomi.com
 *.xiaomi.net
+*janitorai.com
 *vsassets.io
 10minutemail.com
 1337x.to

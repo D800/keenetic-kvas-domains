@@ -51,3 +51,4 @@ spheron.ai
 cdn.hf.co
 huggingface.co
 hf.co
+*janitorai.com
